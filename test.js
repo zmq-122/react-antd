@@ -19,4 +19,5 @@ if(Number(2.2)===2.2){
   console.log(true);
 }
 
-console.log(Number(4.322).toFixed(2))
+str1="qwedqwe-qwewqe-333"
+pctypeArr = str1.split("-");
