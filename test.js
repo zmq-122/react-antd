@@ -9,3 +9,9 @@ console.log("loacal test 2")
 // git reset --merge
 
 // git pull
+
+//git stash
+//git pull origin master
+// git stash pop
+
+// git reset
