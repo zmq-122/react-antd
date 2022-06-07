@@ -9,3 +9,7 @@ console.log("loacal test 2")
 // git reset --merge
 
 // git pull
+
+if(Number(2.2)=2.2){
+  console.log(true);
+}
