@@ -18,3 +18,5 @@ console.log("loacal test 2")
 if(Number(2.2)===2.2){
   console.log(true);
 }
+
+console.log(Number(4.322).toFixed(2))
