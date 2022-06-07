@@ -10,8 +10,11 @@ console.log("loacal test 2")
 
 // git pull
 
-//git stash
+//git stash ♥
 //git pull origin master
 // git stash pop
 
 // git reset
+if(Number(2.2)===2.2){
+  console.log(true);
+}
